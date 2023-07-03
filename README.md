@@ -6,11 +6,11 @@ This Repository contains some basic function in implementing some classic algori
 
 We can seperate sources by minimizing mutual information between them (assuming that sources are statistically independent), so main idea is to find a matrix, multiplying to sensor samples, we have source samples!
 
-## Equivariant MI
+### Equivariant MI
 
 In this type of algorithms, output matrix, is not dependant on mixing matrix, whether it is well mixed, or a small copy of other sources is in mixture of sources.
 
-## Non-Equivariant MI
+### Non-Equivariant MI
 
 In this ones, output matrices are dependant, but easier to implement.
 
