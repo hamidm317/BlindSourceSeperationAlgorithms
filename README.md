@@ -20,4 +20,10 @@ Equivariant Adaptive Source Seperation algorithm, first presented by J. F. Cardo
 
 ## Fast ICA
 
-Most common seperation algorithm, this implementation have been tested on sound and image.
+Most common seperation algorithm, this implementation have been tested on sound and image. [3]
+
+# References
+
+[1] [Blind signal separation: statistical principles](https://ieeexplore.ieee.org/document/720250)
+[2] [Equivariant adaptive source separation paper](https://ieeexplore.ieee.org/document/553476)
+[3] [Hyvarinen Blind Source Seperation Text Book]
