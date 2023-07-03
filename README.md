@@ -4,7 +4,7 @@ This Repository contains some basic function in implementing some classic algori
 
 ## Blind Source Seperation, based on mutual information minimization
 
-We can seperate sources by minimizing mutual information between them (assuming that sources are statistically independent), so main idea is to find a matrix, multiplying to sensor samples, we have source samples!
+We can seperate sources by minimizing mutual information between them (assuming that sources are statistically independent), so main idea is to find a matrix, multiplying to sensor samples, we have source samples! [1]
 
 ### Equivariant MI
 
@@ -14,3 +14,10 @@ In this type of algorithms, output matrix, is not dependant on mixing matrix, wh
 
 In this ones, output matrices are dependant, but easier to implement.
 
+## EASI algorithm
+
+Equivariant Adaptive Source Seperation algorithm, first presented by J. F. Cardoso [2].
+
+## Fast ICA
+
+Most common seperation algorithm, this implementation have been tested on sound and image.
